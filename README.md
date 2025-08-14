@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @koreydillon
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science & AI
 - 🌱 I'm currently advancing my Data Analysis and Visualization capabilities
 - 💞️ I’m looking to collaborate on data analysis/visualization projects
 - 📫 How to reach me koreyldillon@gmail.com
